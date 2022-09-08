@@ -1,2 +1,0 @@
-# strokeprediction
-Stroke Prediction Project
